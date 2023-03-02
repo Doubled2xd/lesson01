@@ -15,5 +15,6 @@ if __name__ == '__main__':
     print_hi('PyCharm')
     print('hello world')
     1+1
+    print('commit')
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 
